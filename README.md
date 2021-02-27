@@ -26,4 +26,4 @@ go to this link: https://developer.spotify.com/dashboard/login
 ```
 
 # P.S.
-Don't forget to install spotipy by this [link] (https://github.com/plamere/spotipy)
+Don't forget to install spotipy by this [link](https://github.com/plamere/spotipy)
