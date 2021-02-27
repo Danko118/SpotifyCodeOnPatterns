@@ -2,14 +2,14 @@
 simple .png spotify code on pattern generator
 
 # installing:
-```
+```sh
   git clone https://github.com/Danko118/SpotifyCodeOnPatterns ~/scop
   cd scop
   pip install -r requirements.txt
 ```
 
 # usage:
-```
+```sh
 python CodeGenV1 
 ```
 
